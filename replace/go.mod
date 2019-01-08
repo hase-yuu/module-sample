@@ -1,4 +1,4 @@
-module github.com/hase-yuu/vgo-sample/replace
+module github.com/hase-yuu/module-sample/replace
 
 require google.golang.org/appengine v1.3.0
 
