@@ -1,1 +1,9 @@
 github.com/hase-yuu/module-sample v0.0.0-20190108093558-a20d98c9ce01 h1:DB97elg/OuvBOYovAvb3aR+n6ZBvR9sdrNVk6AW2J1w=
+github.com/hase-yuu/module-sample/multiversion/a v0.0.0-20190108094210-a987948d8fc3 h1:Ok2mZl6uvAoLuR3eLXRffUkFE6n1tF24leKBG1cEvho=
+github.com/hase-yuu/module-sample/multiversion/a v0.0.0-20190108094210-a987948d8fc3/go.mod h1:1/dlGu9kWlFbI5l/fWHemH5yDk+NTvNjjts1pi7KOdo=
+github.com/hase-yuu/module-sample/multiversion/b v0.0.0-20190108094210-a987948d8fc3 h1:QDSXk1ZahQmHvdqBaBOZBE6RvdAFN6GmzrfGk65RZYA=
+github.com/hase-yuu/module-sample/multiversion/b v0.0.0-20190108094210-a987948d8fc3/go.mod h1:81UKDJ8o7FjdS7odHnKubIZqmY3Ny8a6/+SfnjYiYrI=
+golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
+rsc.io/sampler v1.0.0/go.mod h1:cqxpM3ZVz9VtirqxZPmrWzkQ+UkiNiGtkrN+B+i8kx8=
+rsc.io/sampler v1.2.0 h1:kv0S38gRJgeo7wdseAvLlKLV/gw6qvM3wmj7D59jGgw=
+rsc.io/sampler v1.2.0/go.mod h1:T1hPZKmBbMNahiBKFy5HrXp6adAjACjK9JXDnKaTXpA=
