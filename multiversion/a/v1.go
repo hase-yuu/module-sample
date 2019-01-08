@@ -1,8 +1,11 @@
 package a // import "github.com/hase-yuu/module-sample/multiversion/a"
 
-import _ "rsc.io/sampler" // v1.0.0
+import (
+	"fmt"
+	"rsc.io/sampler"
+)
 
 
 func Call() {
-
+	fmt.Println(sampler.Hello())
 }
