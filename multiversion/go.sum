@@ -3,6 +3,10 @@ github.com/hase-yuu/module-sample/multiversion/a v0.0.0-20190108095031-62f2f4839
 github.com/hase-yuu/module-sample/multiversion/a v0.0.0-20190108095031-62f2f4839da2/go.mod h1:1/dlGu9kWlFbI5l/fWHemH5yDk+NTvNjjts1pi7KOdo=
 github.com/hase-yuu/module-sample/multiversion/b v0.0.0-20190108095031-62f2f4839da2 h1:FEZHYiyuKeC51BoLdaNk8cjRbBH7DfnMaBlVjrouVe8=
 github.com/hase-yuu/module-sample/multiversion/b v0.0.0-20190108095031-62f2f4839da2/go.mod h1:81UKDJ8o7FjdS7odHnKubIZqmY3Ny8a6/+SfnjYiYrI=
+github.com/hase-yuu/module-sample/multiversion/b v0.0.0-20190108100552-70e2b08f0316 h1:seWqNzyqYXQnpNJMsibk0Y7nt0HJYfePv+3TaKgnZr4=
+github.com/hase-yuu/module-sample/multiversion/b v0.0.0-20190108100552-70e2b08f0316/go.mod h1:81UKDJ8o7FjdS7odHnKubIZqmY3Ny8a6/+SfnjYiYrI=
+github.com/hase-yuu/module-sample/multiversion/c v0.0.0-20190108100552-70e2b08f0316 h1:rJXKG8KanyMOrsytwF98nSgsWe8GZZg316EHxGvUZVk=
+github.com/hase-yuu/module-sample/multiversion/c v0.0.0-20190108100552-70e2b08f0316/go.mod h1:ZoEvScbprDP2lqjuBktMosjwOT0fMLiA8gpx/wsqJ88=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
 golang.org/x/text v0.3.0 h1:g61tztE5qeGQ89tm6NTjjM9VPIm088od1l6aSorWRWg=
 golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=

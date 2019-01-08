@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f394a7e8-a3ba-428f-a4f5-bd196bfb38dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/multiversion/c/c.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiversion/c/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiversion/c/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiversion/c/sampler/hello.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiversion/test.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multiversion/a/v1.go" beforeDir="false" afterPath="$PROJECT_DIR$/multiversion/a/a.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multiversion/b/v2.go" beforeDir="false" afterPath="$PROJECT_DIR$/multiversion/b/b.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multiversion/version/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/multiversion/version/go.sum" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/multiversion/version/multiversion" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/multiversion/version/multiversion.go" beforeDir="false" afterPath="$PROJECT_DIR$/multiversion/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiversion/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/multiversion/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiversion/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/multiversion/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiversion/main" beforeDir="false" afterPath="$PROJECT_DIR$/multiversion/main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiversion/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/multiversion/test.sh" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,12 +99,12 @@
           <entry key="go" value="148" />
           <entry key="md" value="1" />
           <entry key="mod" value="25" />
-          <entry key="sh" value="145" />
+          <entry key="sh" value="146" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Bash" value="145" />
+          <entry key="Bash" value="146" />
           <entry key="DTD" value="25" />
           <entry key="Go" value="148" />
           <entry key="PLAIN_TEXT" value="1" />
@@ -123,13 +115,13 @@
           <entry key="go" value="17" />
           <entry key="md" value="1" />
           <entry key="mod" value="11" />
-          <entry key="sh" value="1" />
+          <entry key="sh" value="2" />
           <entry key="sum" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Bash" value="1" />
+          <entry key="Bash" value="2" />
           <entry key="DTD" value="11" />
           <entry key="Go" value="17" />
           <entry key="PLAIN_TEXT" value="8" />
@@ -183,19 +175,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/multiversion/c/sampler/hello.go">
+        <entry file="file://$PROJECT_DIR$/multiversion/test.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/multiversion/b/b.go">
+        <entry file="file://$PROJECT_DIR$/multiversion/c/sampler/hello.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -266,11 +258,11 @@
         <option value="$PROJECT_DIR$/multiversion/a/v1.go" />
         <option value="$PROJECT_DIR$/multiversion/b/v2.go" />
         <option value="$PROJECT_DIR$/multiversion/version/README.md" />
-        <option value="$PROJECT_DIR$/multiversion/test.sh" />
         <option value="$PROJECT_DIR$/multiversion/c/c.go" />
         <option value="$PROJECT_DIR$/multiversion/c/go.mod" />
         <option value="$PROJECT_DIR$/multiversion/main.go" />
         <option value="$PROJECT_DIR$/multiversion/c/sampler/hello.go" />
+        <option value="$PROJECT_DIR$/multiversion/test.sh" />
       </list>
     </option>
   </component>
@@ -303,31 +295,6 @@
               <item name="module-sample" type="b2602c69:ProjectViewProjectNode" />
               <item name="module-sample" type="462c0819:PsiDirectoryNode" />
               <item name="multiversion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="module-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="module-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="multiversion" type="462c0819:PsiDirectoryNode" />
-              <item name="a" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="module-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="module-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="multiversion" type="462c0819:PsiDirectoryNode" />
-              <item name="b" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="module-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="module-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="multiversion" type="462c0819:PsiDirectoryNode" />
-              <item name="c" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="module-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="module-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="multiversion" type="462c0819:PsiDirectoryNode" />
-              <item name="c" type="462c0819:PsiDirectoryNode" />
-              <item name="sampler" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="module-sample" type="b2602c69:ProjectViewProjectNode" />
@@ -521,13 +488,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/multiversion/test.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/multiversion/a/a.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -592,6 +552,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/multiversion/c/sampler/hello.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/multiversion/c/c.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -602,10 +569,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/multiversion/c/sampler/hello.go">
+    <entry file="file://$PROJECT_DIR$/multiversion/test.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
